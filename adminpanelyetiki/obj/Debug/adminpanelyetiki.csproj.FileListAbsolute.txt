@@ -1,0 +1,14 @@
+C:\Users\zehra\OneDrive\Desktop\c#\adminpanelyetiki\adminpanelyetiki\bin\Debug\adminpanelyetiki.exe.config
+C:\Users\zehra\OneDrive\Desktop\c#\adminpanelyetiki\adminpanelyetiki\bin\Debug\adminpanelyetiki.exe
+C:\Users\zehra\OneDrive\Desktop\c#\adminpanelyetiki\adminpanelyetiki\bin\Debug\adminpanelyetiki.pdb
+C:\Users\zehra\OneDrive\Desktop\c#\adminpanelyetiki\adminpanelyetiki\obj\Debug\adminpanelyetiki.csproj.AssemblyReference.cache
+C:\Users\zehra\OneDrive\Desktop\c#\adminpanelyetiki\adminpanelyetiki\obj\Debug\adminpanelyetiki.csproj.SuggestedBindingRedirects.cache
+C:\Users\zehra\OneDrive\Desktop\c#\adminpanelyetiki\adminpanelyetiki\obj\Debug\adminpanelyetiki.LOGINFORM.resources
+C:\Users\zehra\OneDrive\Desktop\c#\adminpanelyetiki\adminpanelyetiki\obj\Debug\adminpanelyetiki.Properties.Resources.resources
+C:\Users\zehra\OneDrive\Desktop\c#\adminpanelyetiki\adminpanelyetiki\obj\Debug\adminpanelyetiki.csproj.GenerateResource.cache
+C:\Users\zehra\OneDrive\Desktop\c#\adminpanelyetiki\adminpanelyetiki\obj\Debug\adminpanelyetiki.csproj.CoreCompileInputs.cache
+C:\Users\zehra\OneDrive\Desktop\c#\adminpanelyetiki\adminpanelyetiki\obj\Debug\adminpanelyetiki.exe
+C:\Users\zehra\OneDrive\Desktop\c#\adminpanelyetiki\adminpanelyetiki\obj\Debug\adminpanelyetiki.pdb
+C:\Users\zehra\OneDrive\Desktop\c#\adminpanelyetiki\adminpanelyetiki\obj\Debug\adminpanelyetiki.FormAna.resources
+C:\Users\zehra\OneDrive\Desktop\c#\adminpanelyetiki\adminpanelyetiki\obj\Debug\adminpanelyetiki.hakkindaForm.resources
+C:\Users\zehra\OneDrive\Desktop\c#\adminpanelyetiki\adminpanelyetiki\obj\Debug\adminpanelyetiki.personalkntrolForm.resources
